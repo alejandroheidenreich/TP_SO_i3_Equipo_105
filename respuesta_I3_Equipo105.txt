@@ -1,3 +1,19 @@
+Alejandro Heidenreich
+Mateo Geminiani 
+Matías Gagni 
+
 a- Despues del ultimo merge quedan todas los puntos completados
 b- Si, beta puedo ver todos los cambios realizados.
 c- Desde el master, git merge "nombre del branch", con un git branch para confirmar y luego realizar un push
+
+d- Si, tienen los datos actualizados.
+e- No tuvimos problemas con el merge.
+f- Debí hacer:
+git clone -b heidenreich https://github.com/alejandroheidenreich/TP_SO_i3_Equipo_105.git
+
+posterior a eso utilicé el comando ifconfig para extraer la información requerida y así pegarla junto con mis datos.
+
+y para subirlo utilicé los comandos:
+git add .
+git commit -m "Modificación gamma"
+git push
