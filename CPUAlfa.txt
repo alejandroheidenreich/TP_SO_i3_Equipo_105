@@ -1,0 +1,2 @@
+Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz   2.00 GHz
+Ram 4,00 GB
