@@ -17,3 +17,11 @@ y para subirlo utilicé los comandos:
 git add .
 git commit -m "Modificación gamma"
 git push
+
+g- Debi hacer:
+1 echo "Mateo Geminiani" >> beta.txt
+2 ipconfig >> beta.txt
+3 echo "11:33" >> beta.txt
+4 git add .
+5 git commit -m "punto 8"
+6 git push
