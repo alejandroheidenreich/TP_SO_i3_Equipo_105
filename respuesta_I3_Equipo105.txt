@@ -1,0 +1,3 @@
+a- Despues del ultimo merge quedan 
+b- Si, beta puedo ver todos los cambios realizados.
+c- Desde el master, git merge "nombre del branch", y luego realizar un push
